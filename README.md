@@ -7,7 +7,7 @@ Um projeto pessoal desenvolvido em **React**, que exibe as principais criptomoed
 
 ## 🔗 Teste online via Vercel
 
-Veja o projeto funcionando ao vivo: [Cripto Dashboard - Vercel](api-criptomoedas-eta.vercel.app)
+Veja o projeto funcionando ao vivo: [Cripto Dashboard - Vercel](https://api-criptomoedas-eta.vercel.app/)
 
 ---
 
